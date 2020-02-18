@@ -1,0 +1,7 @@
+./src/main/resources/config.properties
+.idea
+target
+generated-sources
+kafka-beginners-course.iml
+/src/main/resources/config.properties
+/src/main/resources/config2.properties
