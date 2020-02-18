@@ -1,4 +1,4 @@
-package com.github.pramod.kafka.tutorial2;
+package com.github.pramod.kafka.twitterproducer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.github.pramod.kafka.tutorial1;
+package com.github.pramod.kafka.producerandconsumer;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;

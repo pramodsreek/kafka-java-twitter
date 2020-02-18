@@ -1,4 +1,4 @@
-package com.github.pramod.kafka.tutorial1;
+package com.github.pramod.kafka.producerandconsumer;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;

@@ -1,4 +1,4 @@
-package com.github.pramod.kafka.tutorial2;
+package com.github.pramod.kafka.twitterproducer;
 
 import com.google.common.collect.Lists;
 import com.twitter.hbc.ClientBuilder;
